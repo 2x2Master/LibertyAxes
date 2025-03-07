@@ -52,7 +52,7 @@ questions = [
         }
     },
     {
-        "question": "Welfare spending should be cut to ensure a balanced budget.",
+        "question": "I support some form of libertarianism on the basis that it is the most moral system, not nessecarily the most efficient.",
         "effect": {
             "b1": 0,
             "b2": 0,
